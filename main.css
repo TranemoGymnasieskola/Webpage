@@ -1,0 +1,28 @@
+body {
+	background: #999;
+	font-family: apple chancery;
+}
+
+p {
+	background: #666;
+	color: #FFA500;
+	padding: 5px 5px
+}
+
+h1 {
+	color: #FFFFFF;
+}
+
+a {
+	color: #FFFFFF;
+}
+
+.secondary {
+	background: none;
+	color: #FFFFFF;
+}
+
+#special {
+	background: #FFFFFF;
+	color: #000;
+}
