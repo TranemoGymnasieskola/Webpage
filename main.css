@@ -1,6 +1,12 @@
 body {
 	background: #999999;
-	font-family: Arial;
+	font-family: Times New Roman;
+	margin: 0;
+}
+
+header {
+	padding: 5px 5px;
+	margin: 0;
 }
 
 p {
@@ -27,6 +33,20 @@ a {
 }
 
 #special {
-	background: #FFFFFF;
-	color: #000;
+	background: black;
+	border-radius: 5px;
+	color: white;
+	padding: 5px;
+}
+
+.row {
+
+}
+
+.col {
+	background: black;
+	border-radius: 5px;
+	float: left;
+	margin: 1%;
+	width: 31%;
 }
